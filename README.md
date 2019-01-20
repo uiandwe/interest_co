@@ -16,4 +16,4 @@
  - 드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)
  - 해줌(https://www.haezoom.com/recruit/) d-day 19/1/30
  - 당근마켓(https://bit.ly/2RtKC2H) 수시채용
- - (https://www.intakefoods.kr/career/)
+ - 인테이크(https://www.intakefoods.kr/career/)
