@@ -20,3 +20,4 @@
  - 스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 수시채용
  - VCNC(타다)(https://www.wanted.co.kr/company/1053) 수시채용
+ - 레이니스트(핀테크)(https://rainist.com/recruit) 
