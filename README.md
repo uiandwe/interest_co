@@ -8,6 +8,7 @@
 > 3. CI/CD를 도입해 사용하고 있는가? ( + TDD )
 > 4. 컨퍼런스에 발표를 한 적이 있는가?
 > 5. 개발 블로그를 작성 중인가?
+> 6. 투자를 받았는가? (2년은 버틸만한 회사인가?)
 
 #### 순서와 상관없이 나열 했음
 
@@ -15,9 +16,9 @@
  - 왓챠 (http://www.frograms.com/joinus/)
  - 드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)
  - 해줌(https://www.haezoom.com/recruit/)
- - 당근마켓(https://bit.ly/2AT2TvG) 수시채용
+ - 당근마켓(https://bit.ly/2AT2TvG) 
  - 인테이크(https://www.intakefoods.kr/career/)
  - 스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)
- - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 수시채용
- - VCNC(타다)(https://www.wanted.co.kr/company/1053) 수시채용
+ - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
+ - VCNC(타다)(https://www.wanted.co.kr/company/1053) 
  - 레이니스트(핀테크)(https://rainist.com/recruit) 
