@@ -22,3 +22,6 @@
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
  - VCNC(타다)(https://www.wanted.co.kr/company/1053) 
  - 레이니스트(핀테크)(https://rainist.com/recruit) 
+
+#### 번외 코스 과정
+- 우아한형제들 백엔드 코스(http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
