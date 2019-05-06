@@ -23,6 +23,8 @@
  - VCNC(타다)(https://www.wanted.co.kr/company/1053) 
  - 레이니스트(핀테크)(https://rainist.com/recruit) 
  - 지그재그(패션)(https://devblog.croquis.com/ko/)
+ - 싸이버로지텍(통신/기술)(https://www.cyberlogitec.com/)
+ - 
 
 #### 번외 코스 과정
 - 우아한형제들 백엔드 코스(http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
