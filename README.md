@@ -21,7 +21,6 @@
  - 스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
  - VCNC(타다)(https://www.wanted.co.kr/company/1053) 
- - 레이니스트(핀테크)(https://rainist.com/recruit) 
  - 지그재그(패션)(https://devblog.croquis.com/ko/)
  - 싸이버로지텍(통신/기술)(https://www.cyberlogitec.com/)
  - 블랭크(레이)(http://blankcorp.kr/bbs/board.php?bo_table=rec)
