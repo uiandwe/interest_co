@@ -27,6 +27,8 @@
  - 세일즈부스트(마케팅솔루션)(https://www.rocketpunch.com/companies/salesboost/jobs)
  - 스터디파이(교육)(https://brunch.co.kr/@taewookim/9)
  - 크리마(상품판매분석마케팅)(https://www.rocketpunch.com/companies/cremafactory/jobs)
+ - 플링크(웹)(https://www.pplink.net/#/career)
+ 
  
 
 #### 번외 코스 과정
