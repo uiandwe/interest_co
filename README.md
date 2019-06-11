@@ -24,6 +24,8 @@
  - 지그재그(패션)(https://devblog.croquis.com/ko/)
  - 싸이버로지텍(통신/기술)(https://www.cyberlogitec.com/)
  - 블랭크(레이)(http://blankcorp.kr/bbs/board.php?bo_table=rec)
+ - 세일즈부스트(마케팅솔루션)(https://www.rocketpunch.com/companies/salesboost/jobs)
+ - 스터디파이(교육)(https://brunch.co.kr/@taewookim/9)
 
 #### 번외 코스 과정
 - 우아한형제들 백엔드 코스(http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html)
