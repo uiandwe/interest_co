@@ -29,6 +29,7 @@
  - 크리마(상품판매분석마케팅)(https://www.rocketpunch.com/companies/cremafactory/jobs)
  - 플링크(웹)(https://www.pplink.net/#/career)
  - 스탠다임(AI)(https://www.rocketpunch.com/companies/standigm)
+ - 베이글코드(게임)(https://www.rocketpunch.com/companies/bagelcode)
  
  
 
