@@ -20,7 +20,7 @@
  - 인테이크(https://www.intakefoods.kr/career/)
  - 스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
- - VCNC(타다)(https://www.wanted.co.kr/company/1053) 
+ - <del>VCNC(타다)</del> (https://www.wanted.co.kr/company/1053) 
  - 지그재그(패션)(https://devblog.croquis.com/ko/)
  - 싸이버로지텍(통신/기술)(https://www.cyberlogitec.com/)
  - 블랭크(레이)(http://blankcorp.kr/bbs/board.php?bo_table=rec)
@@ -29,7 +29,7 @@
  - 크리마(상품판매분석마케팅)(https://www.rocketpunch.com/companies/cremafactory/jobs)
  - 플링크(웹)(https://www.pplink.net/#/career)
  - 스탠다임(AI)(https://www.rocketpunch.com/companies/standigm)
- - 베이글코드(게임)(https://www.rocketpunch.com/companies/bagelcode)
+ - <del>베이글코드(게임)</del> (https://www.rocketpunch.com/companies/bagelcode)
  
  
 
