@@ -15,7 +15,7 @@
 
  - 오마이호텔 (http://ohmyhotelnco.com/ko/recruit/recruit.html)
  - 왓챠 (http://www.frograms.com/joinus/)
- - 드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)
+ - <del>드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)</del>
  - 당근마켓(https://bit.ly/2AT2TvG) 
  - 인테이크(https://www.intakefoods.kr/career/)
  - <del>스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)</del>
