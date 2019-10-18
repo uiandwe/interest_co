@@ -18,7 +18,7 @@
  - 드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)
  - 당근마켓(https://bit.ly/2AT2TvG) 
  - 인테이크(https://www.intakefoods.kr/career/)
- - 스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)
+ - <del>스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)</del>
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
  - <del>VCNC(타다)</del> (https://www.wanted.co.kr/company/1053) 
  - 지그재그(패션)(https://devblog.croquis.com/ko/)
