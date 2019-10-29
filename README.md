@@ -30,6 +30,7 @@
  - 플링크(웹)(https://www.pplink.net/#/career)
  - 스탠다임(AI)(https://www.rocketpunch.com/companies/standigm)
  - <del>베이글코드(게임)</del> (https://www.rocketpunch.com/companies/bagelcode)
+ - 스켈터랩스(AI) (https://www.theteams.kr/recruit/wanted/4220)
  
  
 
