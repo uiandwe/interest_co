@@ -1,13 +1,13 @@
 
 # interest_co
-### 내가 관심있는 회사들을 모음집 (vol.1)
+### 내가 관심있는 회사들을 모음집 (vol.2)
 
 > 리스트에 들어갈 최소한의 조건들
 > 1. CTO급이 있는가? (개발팀이 따로 존재하는가?)
 > 2. 자체 서비스가 있는가? (서비스를 개발 중인가? / 개발한 전력이 있는가?)
-> 3. CI/CD를 도입해 사용하고 있는가? ( + TDD )
-> 4. 컨퍼런스에 발표를 한 적이 있는가?
-> 5. 개발 블로그를 작성 중인가?
+> 3. CI/CD를 도입해 사용하고 있는가? ( 테스트를 적극 활용 하는가 )
+> 4. 컨퍼런스에 발표를 한 적이 있는가? ( 후원을 했는가 )
+> 5. 개발 블로그를 작성 중인가? ( 개발에 대한 철학이 있는가? )
 > 6. 투자를 받았는가? (2년은 버틸만한 회사인가?)
 > 7. 대표가 개발자 출신인가? (개발팀에 투자를 하고 있는가?)
 
@@ -30,7 +30,8 @@
  - 플링크(웹)(https://www.pplink.net/#/career)
  - 스탠다임(AI)(https://www.rocketpunch.com/companies/standigm)
  - <del>베이글코드(게임)</del> (https://www.rocketpunch.com/companies/bagelcode)
- - 스켈터랩스(AI) (https://www.theteams.kr/recruit/wanted/4220)
+ - 스켈터랩스(AI) (https://www.theteams.kr/recruit/wanted/4220)'
+ - 온디멘드코리아(동영상) (https://odkmedia.bamboohr.com/jobs/)
  
  
 
