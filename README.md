@@ -14,7 +14,7 @@
 
 #### 순서와 상관없이 나열 했음
 
- - 오마이호텔 (http://ohmyhotelnco.com/ko/recruit/recruit.html)
+ - <del>오마이호텔 (http://ohmyhotelnco.com/ko/recruit/recruit.html)</del>
  - <del>왓챠 (http://www.frograms.com/joinus/)</del>
  - <del>드라마앤컴퍼니(리벰버)(http://dramancompany.com/joinus/)</del>
  - <del>당근마켓(https://bit.ly/2AT2TvG) </del>
