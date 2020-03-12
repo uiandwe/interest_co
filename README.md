@@ -22,7 +22,7 @@
  - <del>스포카(도도포인트)(https://spoqa.github.io/jobs/programmer.html)</del>
  - 퍼플웍스(http://www.purpleworks.co.kr/recruit) 
  - <del>VCNC(타다)</del> (https://www.wanted.co.kr/company/1053) 
- - 지그재그(패션)(https://devblog.croquis.com/ko/)
+ - <del>지그재그(패션)(https://devblog.croquis.com/ko/)</del>
  - 싸이버로지텍(통신/기술)(https://www.cyberlogitec.com/)
  - 블랭크(레이)(http://blankcorp.kr/bbs/board.php?bo_table=rec)
  - 세일즈부스트(마케팅솔루션)(https://www.rocketpunch.com/companies/salesboost/jobs)
