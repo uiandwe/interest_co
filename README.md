@@ -27,7 +27,7 @@
  - 블랭크(레이)(http://blankcorp.kr/bbs/board.php?bo_table=rec)
  - 세일즈부스트(마케팅솔루션)(https://www.rocketpunch.com/companies/salesboost/jobs)
  - 스터디파이(교육)(https://brunch.co.kr/@taewookim/9)
- - 크리마(상품판매분석마케팅)(https://www.rocketpunch.com/companies/cremafactory/jobs)
+ - <del>크리마(상품판매분석마케팅)(https://www.rocketpunch.com/companies/cremafactory/jobs)</del>
  - 플링크(웹)(https://www.pplink.net/#/career)
  - 스탠다임(AI)(https://www.rocketpunch.com/companies/standigm)
  - <del>베이글코드(게임)</del> (https://www.rocketpunch.com/companies/bagelcode)
