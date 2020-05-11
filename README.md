@@ -34,7 +34,7 @@
  - <del>스켈터랩스(AI) (https://www.theteams.kr/recruit/wanted/4220)</del>
  - 온디멘드코리아(동영상) (https://odkmedia.bamboohr.com/jobs/)
  - 루닛(AI 의료) (https://lunit-blog.prezly.com/were-hiring-back-end-engineer)
- - 데브시스터즈
+ - <del>데브시스터즈</del>
  
  
 
