@@ -39,4 +39,4 @@
  
 
 #### 번외 코스 과정
-
+- go https://academy.nomadcoders.co/p/go-for-beginners
