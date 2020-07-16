@@ -36,7 +36,8 @@
  - <del>온디멘드코리아(동영상) (https://odkmedia.bamboohr.com/jobs/)</del>
  - <del>루닛(AI 의료) (https://lunit-blog.prezly.com/were-hiring-back-end-engineer)</del>
  - <del>데브시스터즈</del>
- - 에이아이트릭스(AI 의료) (https://www.wanted.co.kr/wd/13923?referer_id=1231812)
+ - <del>에이아이트릭스(AI 의료) (https://www.wanted.co.kr/wd/13923?referer_id=1231812)</del>
+ - <del>카사코리아</del>
  
  
 
