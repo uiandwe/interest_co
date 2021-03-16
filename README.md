@@ -39,6 +39,7 @@
  - <del>에이아이트릭스(AI 의료) (https://www.wanted.co.kr/wd/13923?referer_id=1231812)</del>
  - <del>카사코리아</del>
  - 스푼라디오(오디오 라이브 스트리밍) https://www.wanted.co.kr/wd/53737
+ - 무신사 (https://www.wanted.co.kr/wd/38537)
  
  
 
