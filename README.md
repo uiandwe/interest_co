@@ -40,7 +40,6 @@
  - <del>카사코리아</del>
  - 스푼라디오(오디오 라이브 스트리밍) https://www.wanted.co.kr/wd/53737
  - 무신사 (https://www.wanted.co.kr/wd/38537)
- - 화해 (뷰티) https://www.hwahae.co.kr/recruit/55
  
  
 
