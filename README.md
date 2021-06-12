@@ -38,7 +38,7 @@
  - <del>데브시스터즈</del>
  - <del>에이아이트릭스(AI 의료) (https://www.wanted.co.kr/wd/13923?referer_id=1231812)</del>
  - <del>카사코리아</del>
- - 스푼라디오(오디오 라이브 스트리밍) https://www.wanted.co.kr/wd/53737
+ - <del>스푼라디오(오디오 라이브 스트리밍) https://www.wanted.co.kr/wd/53737</del>
  - 무신사 (https://www.wanted.co.kr/wd/38537)
  - 레몬베이스(소핑) (https://www.lemonbase.team/ceb39cd7-f532-46c9-87f1-47df8792e46e)
  
